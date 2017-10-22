@@ -1,2 +1,2 @@
-go-sample.exe
-hello.exe
+*.exe
+debug
